@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3001/productos';
+const API_URL = 'https://technogaming-pc3-backend.onrender.com/productos';
 
 export const listarProductos = async () => {
   try {
